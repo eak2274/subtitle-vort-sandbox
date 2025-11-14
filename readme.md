@@ -1,0 +1,1 @@
+For this project to work, it's necessary to download this model https://alphacephei.com/vosk/models/vosk-model-ru-0.42.zip and unzip it to models/vosk-model-ru-0.42.
